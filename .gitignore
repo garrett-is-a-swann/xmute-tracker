@@ -1,0 +1,10 @@
+# Vim
+.*.sw*
+
+# Localfile
+config.py
+
+# Python Stuffs
+__pycache__/
+venv/
+env/
